@@ -1,5 +1,6 @@
 # Abandoned-Object-Detection
 
+Work to be done :
 1.We are processing the live feed of the CCTV camera with image processing.
 2.If a person is releasing off some piece of luggage the camera will catch the activity.
 3.This frames are been detected and been image processed by Edge detection . The processing is done by the OpenCV.
